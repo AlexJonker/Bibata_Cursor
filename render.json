@@ -113,18 +113,18 @@
     ]
   },
 
-  "Bibata-Modern-Gruvbux": {
+  "Bibata-Modern-Gruvbox": {
     "dir": "svg/modern",
-    "out": "bitmaps/Bibata-Modern-Gruvbux",
+    "out": "bitmaps/Bibata-Modern-Gruvbox",
     "colors": [
       { "match": "#00FF00", "replace": "#D4BE98" },
       { "match": "#0000FF", "replace": "#7DAEA3" },
       { "match": "#FF0000", "replace": "#D4BE98" }
     ]
   },
-  "Bibata-Modern-Gruvbux-Right": {
+  "Bibata-Modern-Gruvbox-Right": {
     "dir": "svg/modern-right",
-    "out": "bitmaps/Bibata-Modern-Gruvbux-Right",
+    "out": "bitmaps/Bibata-Modern-Gruvbox-Right",
     "colors": [
       { "match": "#00FF00", "replace": "#D4BE98" },
       { "match": "#0000FF", "replace": "#7DAEA3" },
@@ -132,18 +132,18 @@
     ]
   },
 
-  "Bibata-Original-Gruvbux": {
+  "Bibata-Original-Gruvbox": {
     "dir": "svg/original",
-    "out": "bitmaps/Bibata-Original-Gruvbux",
+    "out": "bitmaps/Bibata-Original-Gruvbox",
     "colors": [
       { "match": "#00FF00", "replace": "#D4BE98" },
       { "match": "#0000FF", "replace": "#7DAEA3" },
       { "match": "#FF0000", "replace": "#D4BE98" }
     ]
   },
-  "Bibata-Original-Gruvbux-Right": {
+  "Bibata-Original-Gruvbox-Right": {
     "dir": "svg/original-right",
-    "out": "bitmaps/Bibata-Original-Gruvbux-Right",
+    "out": "bitmaps/Bibata-Original-Gruvbox-Right",
     "colors": [
       { "match": "#00FF00", "replace": "#D4BE98" },
       { "match": "#0000FF", "replace": "#7DAEA3" },

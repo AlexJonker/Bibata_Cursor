@@ -44,10 +44,10 @@ names["Bibata-Original-Classic"]=$(with_version "Black and sharp edge Bibata")
 names["Bibata-Original-Classic-Right"]=$(with_version "Black and sharp edge right-hand Bibata")
 names["Bibata-Original-Ice"]=$(with_version "White and sharp edge Bibata")
 names["Bibata-Original-Ice-Right"]=$(with_version "White and sharp edge right-hand Bibata")
-names["Bibata-Modern-Gruvbux"]=$(with_version "Gruvbux and rounded edge Bibata")
-names["Bibata-Modern-Gruvbux-Right"]=$(with_version "Gruvbux and rounded edge right-hand Bibata")
-names["Bibata-Original-Gruvbux"]=$(with_version "Gruvbux and sharp edge Bibata")
-names["Bibata-Original-Gruvbux-Right"]=$(with_version "Gruvbux and sharp edge right-hand Bibata")
+names["Bibata-Modern-Gruvbox"]=$(with_version "Gruvbox and rounded edge Bibata")
+names["Bibata-Modern-Gruvbox-Right"]=$(with_version "Gruvbox and rounded edge right-hand Bibata")
+names["Bibata-Original-Gruvbox"]=$(with_version "Gruvbox and sharp edge Bibata")
+names["Bibata-Original-Gruvbox-Right"]=$(with_version "Gruvbox and sharp edge right-hand Bibata")
 
 # Cleanup old builds
 rm -rf themes bin
